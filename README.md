@@ -12,10 +12,10 @@ Ce projet a pour objectif de mettre en place un système CRM sur Salesforce pour
 
 ## Convention de nommage
 
-- Nommage des classes Apex : Nom clair et descriptif, utilisation du PascalCase, suffixer en fonction du type (Controller, Service, TriggerHandler, Helper).
-- Nommage des Trigger :  Nom avec le nom de l'objet suivi du mot Trigger.
-- Nommage des méthodes et variables : Nommer les variables de manière descriptive, utilisation du CamelCase.
-- Nommage des composants LWC : Utilisation du kebab-case pour les noms de fichiers et dossiers, CamelCase dans le JavaScript.
+- Nommage des classes Apex : Nom clair et descriptif, utilisation du PascalCase, suffixer en fonction du type (Controller, Service, TriggerHandler, Helper). Exemple : AccountManager.
+- Nommage des Trigger :  Nom avec le nom de l'objet suivi du mot Trigger. Exemple : CreateTriponOpportunitywin.trigger.
+- Nommage des méthodes et variables : Nommer les variables de manière descriptive, utilisation du CamelCase. Exemple : Trip__c.
+
 =======
 # Salesforce DX Project: Next Steps
 
