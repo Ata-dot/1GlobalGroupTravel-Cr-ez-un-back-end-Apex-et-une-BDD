@@ -14,7 +14,7 @@ Ce projet a pour objectif de mettre en place un système CRM sur Salesforce pour
 
 - Nommage des classes Apex : Nom clair et descriptif, utilisation du PascalCase, suffixer en fonction du type (Controller, Service, TriggerHandler, Helper). Exemple : AccountManager.
 - Nommage des Trigger :  Nom avec le nom de l'objet suivi du mot Trigger. Exemple : CreateTriponOpportunitywin.trigger.
-- Nommage des méthodes et variables : Nommer les variables de manière descriptive, utilisation du CamelCase. Exemple : Trip__c.
+- Nommage des méthodes et variables : Nommer les variables de manière descriptive, utilisation du CamelCase. Exemple : totalParticipants.
 
 =======
 # Salesforce DX Project: Next Steps
