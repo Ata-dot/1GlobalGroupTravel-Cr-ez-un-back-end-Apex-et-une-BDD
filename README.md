@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+//<<<<<<< HEAD
 # GlobalGroupTravel-Cr-ez-un-back-end-Apex-et-une-BDD
 
 Ce projet a pour objectif de mettre en place un système CRM sur Salesforce pour la gestion des voyages de groupe pour les entreprises et organisations.
